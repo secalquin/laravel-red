@@ -8,9 +8,9 @@
 </p>
 
 
-## Comandos para ejecución del proyecto
+## Ejecución del proyecto
 
-Para ejecutar el proyecto laravel se necesita hacer lo siguiente antes de ejecutar el servidor:
+Antes de ejecutar el proyecto laravel debemos ejecutar los siguientes comandos:
 
 - php artisan migrate
 - php artisan db:seed --class=RoleTableSeeder
