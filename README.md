@@ -15,10 +15,10 @@ Para ejecutar el proyecto laravel se necesita hacer lo siguiente antes de ejecut
 - php artisan db:seed --class=RoleTableSeeder
 - php artisan db:seed --class=UserTableSeeder
 
-##Usuario Normal
+### Usuario Normal
 correo: usuario@usuario.com
 password: usuario
 
-##Usuario Administrador
+### Usuario Administrador
 correo: admin@admin.com
 password: admin
