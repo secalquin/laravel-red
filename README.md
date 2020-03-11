@@ -10,7 +10,7 @@
 
 ## Ejecución del proyecto
 
-Antes de ejecutar el proyecto laravel debemos ejecutar los siguientes comandos:
+Antes de ejecutar el proyecto laravel debemos hacer lo siguiente en consola:
 
 - php artisan migrate
 - php artisan db:seed --class=RoleTableSeeder
