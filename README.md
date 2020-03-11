@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
 ## Comandos para ejecución del proyecto
 
 Para ejecutar el proyecto laravel se necesita hacer lo siguiente antes de ejecutar el servidor:
@@ -16,9 +17,9 @@ Para ejecutar el proyecto laravel se necesita hacer lo siguiente antes de ejecut
 - php artisan db:seed --class=UserTableSeeder
 
 ### Usuario Normal
-correo: usuario@usuario.com
-password: usuario
+- correo: usuario@usuario.com
+- password: usuario
 
 ### Usuario Administrador
-correo: admin@admin.com
-password: admin
+- correo: admin@admin.com
+- password: admin
