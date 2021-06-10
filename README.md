@@ -15,3 +15,4 @@ Antes de ejecutar el proyecto laravel debemos hacer lo siguiente en consola:
 ### Usuario Administrador
 - correo: admin@admin.com
 - password: admin
+
